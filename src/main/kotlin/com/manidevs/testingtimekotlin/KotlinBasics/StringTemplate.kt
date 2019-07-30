@@ -44,4 +44,9 @@ fun main (args: Array<String>){
                         }
     println("The final greater number is $bigNum")
 
+    val name1 = "Eva"
+    val age = 27
+    val message = "My name is $name1 and I am $age years old"
+    println(message)
+
 }

@@ -2,12 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b4a1e51c-c348-4db0-9557-79724abd3f7b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/Calculator/Calculator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/DataTypesKotlin.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/ElvisOperator.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/StringTemplate.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/DataTypesKotlin.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/DataTypesKotlin.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/StringTemplate.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/StringTemplate.kt" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -43,7 +40,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle.kts">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
+            <state relative-caret-position="765">
               <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
             </state>
           </provider>
@@ -52,8 +49,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/StringTemplate.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="109">
-              <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
+            <state relative-caret-position="192">
+              <caret line="50" selection-start-line="50" selection-end-line="50" />
             </state>
           </provider>
         </entry>
@@ -70,8 +67,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/DataTypesKotlin.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="20" column="60" lean-forward="true" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+            <state relative-caret-position="-935">
+              <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -93,10 +90,10 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/Calculator/Calculator.kt" />
-        <option value="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/StringTemplate.kt" />
         <option value="$PROJECT_DIR$/build.gradle.kts" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/ElvisOperator.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/Numbers.kt" />
+        <option value="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/StringTemplate.kt" />
         <option value="$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/DataTypesKotlin.kt" />
       </list>
     </option>
@@ -111,8 +108,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -192,7 +189,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Kotlin.com.manidevs.testingtimekotlin.KotlinBasics.ElvisOperatorKt">
+  <component name="RunManager" selected="Kotlin.com.manidevs.testingtimekotlin.KotlinBasics.DataTypesKotlinKt">
+    <configuration name="com.manidevs.testingtimekotlin.KotlinBasics.DataTypesKotlinKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
+      <module name="testingtimekotlin.main" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" value="com.manidevs.testingtimekotlin.KotlinBasics.DataTypesKotlinKt" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="com.manidevs.testingtimekotlin.KotlinBasics.ElvisOperatorKt" type="JetRunConfigurationType" factoryName="Kotlin" temporary="true" nameIsGenerated="true">
       <module name="testingtimekotlin.main" />
       <option name="VM_PARAMETERS" />
@@ -228,8 +238,9 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Kotlin.com.manidevs.testingtimekotlin.KotlinBasics.ElvisOperatorKt" />
+        <item itemvalue="Kotlin.com.manidevs.testingtimekotlin.KotlinBasics.DataTypesKotlinKt" />
         <item itemvalue="Kotlin.com.manidevs.testingtimekotlin.KotlinBasics.StringTemplateKt" />
+        <item itemvalue="Kotlin.com.manidevs.testingtimekotlin.KotlinBasics.ElvisOperatorKt" />
       </list>
     </recent_temporary>
   </component>
@@ -249,18 +260,19 @@
       <workItem from="1562866637079" duration="1581000" />
       <workItem from="1564158667609" duration="269000" />
       <workItem from="1564158991669" duration="7984000" />
-      <workItem from="1564413087981" duration="8253000" />
+      <workItem from="1564413087981" duration="9247000" />
+      <workItem from="1564499256532" duration="10320000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20157000" />
+    <option name="totallyTimeSpent" value="31471000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="695" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24939272" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09797571" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -270,12 +282,12 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3285968" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3623446" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.3285968" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -320,15 +332,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle.kts">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
+        <state relative-caret-position="765">
           <caret line="45" column="6" selection-start-line="45" selection-start-column="6" selection-end-line="45" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/StringTemplate.kt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="109">
-          <caret line="39" column="31" selection-start-line="39" selection-start-column="31" selection-end-line="39" selection-end-column="31" />
         </state>
       </provider>
     </entry>
@@ -339,10 +344,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/StringTemplate.kt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="50" selection-start-line="50" selection-end-line="50" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/kotlin/com/manidevs/testingtimekotlin/KotlinBasics/DataTypesKotlin.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="20" column="60" lean-forward="true" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+        <state relative-caret-position="-935">
+          <caret line="38" column="7" lean-forward="true" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
         </state>
       </provider>
     </entry>
