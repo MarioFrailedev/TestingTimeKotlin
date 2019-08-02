@@ -111,9 +111,45 @@ implicitly converted to bigger types*/
         }
     }
 
-    println(messagev) //Prints: Two wheels
+    println(messagev) //Prints: Two wheel
+
+    // //Java
+    //    String str = "Foo Bar";
+    //    for(int i=0; i<str.length(); i++)
+    //    System.out.println(str.charAt(i));
 
 
+    val arrayFor = arrayOf(16, 8, 16)
+     for (item in arrayFor)
+         print(item)
+
+    //brak and continue
+    val intRange2 = 1..5
+    val charRange = 'A'..'B'
+
+    for(value in intRange2) {
+        if(value == 3)
+            continue
+
+        println("Outer loop: $value ")
+
+        for (char in charRange) {
+            println("\tInner loop: $char ")
+        }
+    }
+
+    val intRange = 1..6
+
+    outer@ for(value in intRange) {
+        println("Outer loop: $value ")
+
+        for (char in charRange) {
+            if(char == 'B')
+                break@outer
+
+            println("\tInner loop: $char ")
+        }
+    }
 
 
 
